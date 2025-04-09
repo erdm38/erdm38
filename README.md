@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdm38&label=Profile%20views&color=0e75b6&style=flat" alt="erdm38" /> </p>
 
+- 🔭 I’m currently working on **ML and develop a website**
+
+- 🌱 I’m currently learning **Machine learning, cybersecurity, and software development.**
+
 - 👨‍💻 My Projects and Works - My Portfolio [https://erdm38.github.io/my_portfolio/](https://erdm38.github.io/my_portfolio/)
 
 - 📫 How to reach me **musluerdemm38@gmail.com**
